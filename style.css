@@ -5,17 +5,22 @@
 }
 body{
     height: 100vh;
-    text-align: center;
+    text-align: left;
 }
 header{
     margin: 20px;
-    padding: 20px;
+    padding: 50px;
     background: #ccc;
 }
 
 #img-caption{
-    font-size: 22px;
+    font-size: 20px;
 }
 #img{
+    max-width: 100%;
+    height: auto;
     margin-top: 10px;
 }
+body {
+    margin-top: 60px;
+ }
